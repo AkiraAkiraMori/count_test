@@ -46,10 +46,6 @@ class ViewController: UIViewController {
         
     }
     
-    @IBAction func kakeru() {
-        number = number * number
-        
-        label.text = String(number)
         
     }
     
